@@ -6,3 +6,4 @@
 ### Технологии 
 - HTML
 - CSS
+- JavaScript
