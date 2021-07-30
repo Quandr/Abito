@@ -53,8 +53,8 @@
   .close-menu {
     display: block;
     position: absolute;
-    right: 30px;
-    top: 30px;
+    right: 45px;
+    top: 35px;
     cursor: pointer;
     background-color: #fff;
     border: none;
